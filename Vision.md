@@ -25,11 +25,13 @@ I SSIS bokcirkel så ska du som användare kunna ha sin egen bokhylla, där man 
 
 ## Teknik
 SSIS bokcirkel byggs i node.js. 
-- ramverk? Vue?
-- databas?
-- Ubuntu server.
+- Ramverk: Vue?
+- databas: MongoDB, Mongoose. 
+- Ubuntu server. DigitalOcean eller direkt på skolans server?
 - Bokinformation KB via deras API
-- Tillgänglighetsanpassad.
+- Tester: Mocha, Chai, Jest
+- Tillgänglighetsanpassad. (http://wave.webaim.org/, CKEditor 4, www.boia.org?)
+- Stretch Goal - integration med Goodreads?
 
 
 I detta projekt för vi även in ett avsnitt kring tekniker du tänkt använda dig av, då detta är en viktig punkt i dessa projekt. Tekniker kan väljas utifrån tidigare erfarenhet, att man vill testa eller lära sig något, industristandard, tillgänglighet, etc. Teknik kan vara alltifrån val av programmeringsspråk, speciella api:er, ramverk, hårdvaruplattformar, servermjukvaror etc.
